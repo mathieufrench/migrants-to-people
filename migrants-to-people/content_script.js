@@ -32,8 +32,8 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	v = v.replace(/\bMigrant\b/g, "Person");
-	v = v.replace(/\bMigrants\b/g, "People");
 	v = v.replace(/\bmigrant\b/g, "person");
+	v = v.replace(/\bMigrants\b/g, "People");
 	v = v.replace(/\bmigrants\b/g, "people");
 
 
