@@ -1,7 +1,7 @@
 Migrants to People
 =============
-Because first and foremost they're people.
-This Chrome Extension removes the migrant label used throughout the media.
+This Chrome Extension removes the migrant label used throughout the media, because first and foremost they're people.
+[Why Al-Jazeera Stopped Using-the Word Migrant and why we Probably Should Too](http://i100.independent.co.uk/article/why-al-jazeera-stopped-using-the-word-migrant-and-we-probably-should-too--b1kj88hRNx)
 
 Installation
 ------------
