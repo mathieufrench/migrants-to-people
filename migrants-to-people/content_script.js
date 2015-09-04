@@ -36,6 +36,11 @@ function handleText(textNode)
 	v = v.replace(/\bMigrants\b/g, "People");
 	v = v.replace(/\bmigrants\b/g, "people");
 
+	v = v.replace(/\bImmigrant\b/g, "Person");
+	v = v.replace(/\bimmigrant\b/g, "person");
+	v = v.replace(/\bImigrants\b/g, "People");
+	v = v.replace(/\bimmigrants\b/g, "people");
+
 
 	textNode.nodeValue = v;
 }
